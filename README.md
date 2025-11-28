@@ -32,12 +32,12 @@
 ## 👥 팀원
 | 역할 | 이름 | GitHub |
 |------|------|--------|
-| 팀장 | 엄현석 | [@heathcliff4736](https://github.com/heathcliff4736) |
-| Git Master | 김형근 | [@geeunii](https://github.com/geeunii) |
-| 팀원 | 박용헌 | [@00parkyh](https://github.com/00parkyh) |
-| 팀원 | 김도윤 | [@doyooning](https://github.com/doyooning) |
-| 팀원 | 장현우 | [@fsdawer](https://github.com/fsdawer) |
-| 팀원 | 이재훈 | [@jaehoon0321](https://github.com/jaehoon0321) |
+| 팀장 / 입고관리 | 엄현석 | [@heathcliff4736](https://github.com/heathcliff4736) |
+| Git Master / 대시보드, 재무관리 | 김형근 | [@geeunii](https://github.com/geeunii) |
+| 팀원 / 재고관리 | 박용헌 | [@00parkyh](https://github.com/00parkyh) |
+| 서기 / 로그인, 회원관리, 고객센터 | 김도윤 | [@doyooning](https://github.com/doyooning) |
+| 팀원 / 출고관리 | 장현우 | [@fsdawer](https://github.com/fsdawer) |
+| 팀원 / 창고관리 | 이재훈 | [@jaehoon0321](https://github.com/jaehoon0321) |
 
 ---
 
