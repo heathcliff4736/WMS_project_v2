@@ -63,7 +63,7 @@ public InboundRequestDTO createInbound(InboundRequestDTO dto) {
 ```
 
 ### 🔄 기능 흐름
-```mermaid
+```
 flowchart TD
     A[입고 요청 생성 폼] --> B[카테고리 선택]
     B --> C[AJAX로 상품 목록 로드]
